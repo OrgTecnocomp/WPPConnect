@@ -1,8 +1,8 @@
 export default {
-  secretKey: 'changeme',
+  secretKey: 'bhgetertrbfd',
   host: 'http://localhost',
   port: '21465',
-  deviceName: 'SysAPI',
+  deviceName: 'broker',
   poweredBy: 'WPPConnect-Server',
   startAllSession: true,
   tokenStoreType: 'file',
